@@ -1,16 +1,38 @@
-### Hi there 👋
 
-<!--
-**NetoMonteiro/NetoMonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <span style="color: #46c66b;">Neto Monteiro</span>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Desenvolverdor
+
+- 🔭 Meus planos estão no futuro para ser destaque no que eu faço
+<br/>
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas <br/>
+- 📚 Linguagem: JavaScript - HTML5 - CSS3
+<br/>
+- 🎯 Foco total em Front-end
+<br/>
+- ❤️ Livros, Filmes, Musica, Gatos
+<br/>
+- 🌱 Buscando sempre aprender mais sobre esse universo em meio a códigos
+<br>
+
+
+
+#### Tech Stack
+<div style = "display: inline_block"> <br/>
+<img align= "center" alt"html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img align= "center" alt"CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img align= "center" alt"JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+<br/>
+<br/>
+
+#### Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neto-monteiro-b588242a9/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/netin.jpg?igsh=MWE3a2ZxYmc1NjNkcQ%3D%3D&utm_source=qr)
+
+
+
+</div>
+
