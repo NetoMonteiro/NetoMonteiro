@@ -6,16 +6,17 @@
 #### Desenvolverdor
 
 - 🔭 Meus planos estão no futuro para ser destaque no que eu faço
-<br/>
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas <br/>
+
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas
+
 - 📚 Linguagem: JavaScript - HTML5 - CSS3
-<br/>
+
 - 🎯 Foco total em Front-end
-<br/>
+
 - ❤️ Livros, Filmes, Musica, Gatos
-<br/>
+
 - 🌱 Buscando sempre aprender mais sobre esse universo em meio a códigos
-<br>
+
 
 
 
@@ -35,4 +36,5 @@
 
 
 </div>
+
 
