@@ -9,6 +9,8 @@
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
 
+- 🧾 Acompanhe minha trajetória de estudos no meu [roadmap](https://github.com/NetoMonteiro/Roadmap)
+
 - 📚 Linguagem: JavaScript - HTML5 - CSS3
 
 - 🎯 Foco total em Front-end
