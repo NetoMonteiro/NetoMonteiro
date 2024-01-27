@@ -9,7 +9,7 @@
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
 
-- 🧾 Acompanhe minha trajetória de estudos no meu [roadmap](https://github.com/NetoMonteiro/Roadmap)
+- 🧾 Acompanhe minha trajetória de estudos e projetos no meu [roadmap](https://github.com/NetoMonteiro/Roadmap)
 
 - 📚 Linguagem: JavaScript - HTML5 - CSS3
 
