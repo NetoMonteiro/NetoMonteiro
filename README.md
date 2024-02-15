@@ -1,19 +1,29 @@
 
-## <span style="color: #46c66b;">Neto Monteiro</span>
+### <span style="color: rgb(255, 100, 0);">Oi é um prazer te ter aqui!, Eu sou o Neto Monteiro ✨</span>
+
+- 🔭 Meus planos para o futuro é ser destaque no que eu faço
+- 🎯 Foco total em Front-end
+
+<span>-----------------------------------------------------</span>
+Loading Translation…⏳ <span>-----------------------------------------------------</span>
+
+
+### <span style="color: rgb(255, 100, 0);">Hi, it's a pleasure to have you here!, I'm Neto Monteiro ✨</span>
+
+- 🔭 My plans for the future is to be a standout in my work
+- 🎯 Total focus on Front-end
 
 <br/>
 
-#### Desenvolverdor
+![gif](https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif)
 
-- 🔭 Meus planos estão no futuro para ser destaque no que eu faço
+#### Desenvolvedor
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
 
 - 🧾 Acompanhe minha trajetória de estudos e projetos no meu [roadmap](https://github.com/NetoMonteiro/Roadmap)
 
-- 📚 Linguagem: JavaScript - HTML5 - CSS3
-
-- 🎯 Foco total em Front-end
+- 📚 Buscando sempre o conhecimento para ser melhor no que eu amo, e um dia ser Fullstack
 
 - ❤️ Livros, Filmes, Musica, Gatos
 
