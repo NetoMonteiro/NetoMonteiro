@@ -15,6 +15,8 @@ Loading Translation…⏳ <span>------------------------------------------------
 
 <br/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9D28E6&width=435&lines=I+Love+Developing+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 ![gif](https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif)
 
 #### Desenvolvedor
