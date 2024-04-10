@@ -41,6 +41,11 @@ Loading Translation…⏳ <span>------------------------------------------------
 
 <br/>
 
+#### Tech Mobile
+[![Flutter](https://img.shields.io/badge/Flutter-3EB9F6?style=for-the-badge&logo=flutter&logoColor=white)](https://docs.flutter.dev/get-started/install/windows/desktop?tab=download)
+
+<br/>
+
 #### Tools
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![VsCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
